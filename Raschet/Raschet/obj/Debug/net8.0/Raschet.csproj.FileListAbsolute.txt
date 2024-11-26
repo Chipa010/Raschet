@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Raschet\Raschet\bin\Debug\net8.0\Raschet.exe
+C:\Users\Student\source\repos\Raschet\Raschet\bin\Debug\net8.0\Raschet.deps.json
+C:\Users\Student\source\repos\Raschet\Raschet\bin\Debug\net8.0\Raschet.runtimeconfig.json
+C:\Users\Student\source\repos\Raschet\Raschet\bin\Debug\net8.0\Raschet.dll
+C:\Users\Student\source\repos\Raschet\Raschet\bin\Debug\net8.0\Raschet.pdb
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\Raschet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\Raschet.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\Raschet.AssemblyInfo.cs
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\Raschet.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\Raschet.dll
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\refint\Raschet.dll
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\Raschet.pdb
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\Raschet.genruntimeconfig.cache
+C:\Users\Student\source\repos\Raschet\Raschet\obj\Debug\net8.0\ref\Raschet.dll
